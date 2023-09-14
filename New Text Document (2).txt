@@ -1,0 +1,20 @@
+2) Demonstrate the steps involved in the process of
+installation and configuration of Hardhat Development
+Environment.
+Ans:-The following steps demonstreate the process of involve in the installation and configuration of hardhat development environment
+ 1. install node.js 
+2. install Hardhat
+	open terminal and run the command
+		
+	npm install --save-dev hardhat
+3. create a new hardhat project. by running npx hardhat init
+4. change directory to the new project directory 
+cd my-hardhat-project.
+5. ceate a new solidity file 
+7. commpile the solidity file by using 
+npx hardhat compile 
+8.  deploy the contrat by using local ethereum network
+npx hardhat run
+9.interact with the contract
+10. test the contract 
+npx hardhat test

@@ -1,0 +1,8 @@
+1) What is Hardhat?
+Ans:- Hardhat is a devlopment environment for ethereum. it provide a set of tools an dlibrariesn that 
+make it easier to build,test an deploy smart contract.
+
+key feature of Hardhat:
+--> A built-in development network that makes it easy to deploy and test smart contract.
+--> A set of libraries and tools that make it easier to build,test and deploy smart contract.
+--> Integration with popular devlopment tools and platforms, such as visual studio code ,truffle,and remix.
